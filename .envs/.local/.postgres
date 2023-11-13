@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=fcd_community
+POSTGRES_USER=etrrQdEgoWqUkdgMPnzSGpkdRzUQrKuJ
+POSTGRES_PASSWORD=0ltsBAtJu3bNabBMceosDZo5IgaEdlZUYCglxTBTIsua5DdzVboNHweOutzvi8a5
